@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "bulid": "tsc",
+    "build": "tsc",
     "dev": "tsc -w",
     "lint": "eslint . --max-warnings 0"
   },
